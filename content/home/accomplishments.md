@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.depts.ttu.edu/english/general_info/directory/faculty_directory/faculty_profile_pages/poch_detailed.php"
   date_start = "2028-10-01"
   date_end = "3028-01-01"
-  description = "Read the news! Eat a Peach"
+  description = "One Million Dollar Prize Winner"
   
 [[item]]
   organization = "Texas Poet Laureate"
