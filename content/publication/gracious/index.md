@@ -25,7 +25,7 @@ summary: "John Poch’s newly curated collection, Gracious: Poems of the 21st Ce
 
 # tags:
 # - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Buy on Amazon

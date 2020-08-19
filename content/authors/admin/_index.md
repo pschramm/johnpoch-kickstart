@@ -25,7 +25,7 @@ social:
     link: https://instagram.com/pochphoto
   - icon: facebook
     icon_pack: fab
-    link: https://facebook.com/john.poch
+    link: https://facebook.com/john.e.poch
 # education:
 #   courses:
 #     - course: PhD in Artificial Intelligence 
