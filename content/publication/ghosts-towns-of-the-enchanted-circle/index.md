@@ -28,7 +28,7 @@ summary: "Vanderbilt University Special Collections, Southern Civilization Colle
 featured: false
 
 links:
-- name: Buy on the Vanderbilt Site
+- name: Admire at the Vanderbilt Library
   url: https://gallery.library.vanderbilt.edu/items/show/1258
 
 
