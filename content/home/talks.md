@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Readings"
+title = "Readings"
 subtitle = ""
 
 [content]
@@ -68,3 +68,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+All readings on hold till vaccine for COVID 19.
