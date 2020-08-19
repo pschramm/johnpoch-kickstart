@@ -16,7 +16,7 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "John Pch"
+  title = "John Poch"
   content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -35,7 +35,7 @@ height = "500px"
   cta_icon = "book"
 
 [[item]]
-  title = "John Poch"
+  title = "Big John Poch"
   content = "I am left aligned :smile:"
   align = "left"
 
@@ -44,8 +44,8 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Slider or Call to Action for Promo"
+  content = "I am right aligned :smile: "
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
