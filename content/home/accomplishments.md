@@ -20,13 +20,34 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Texas Poet Laureate"
-  organization_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
+  organization_url = "https://www.depts.ttu.edu/english/general_info/directory/faculty_directory/faculty_profile_pages/poch_detailed.php"
   title = "Texas Poet Laureate"
   url = ""
   certificate_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
   date_start = "2028-10-01"
   date_end = "3028-01-01"
   description = "Read the news! Eat a Peach"
+  
+[[item]]
+  organization = "Texas Tech University"
+  organization_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
+  title = "2018 TTU President's Excellence Research Professorship"
+  url = ""
+  certificate_url = "https://www.depts.ttu.edu/english/general_info/directory/faculty_directory/faculty_profile_pages/poch_detailed.php"
+  date_start = "2028-10-01"
+  date_end = "3028-01-01"
+  description = "Read the news! Eat a Peach"
+  
+[[item]]
+  organization = "Texas Poet Laureate"
+  organization_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
+  title = "Fulbright Core Scholar at the University of Barcelona"
+  url = ""
+  certificate_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
+  date_start = "2014-10-01"
+  date_end = "3028-01-01"
+  description = "Really Awesome"
 
 
 +++
+
