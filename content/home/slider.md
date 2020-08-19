@@ -29,8 +29,8 @@ height = "500px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "New book 2020"
-  cta_url = "https://booklin/"
+  cta_label = "2020 New Book Summer"
+  cta_url = "https://www.amazon.com/s?i=stripbooks&rh=p_27%3AJohn+Poch&s=relevancerank&text=John+Poch&ref=dp_byline_sr_book_1"
   cta_icon_pack = "fas"
   cta_icon = "book"
 

@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.tsl.texas.gov/ref/abouttx/poets.html"
   date_start = "2028-10-01"
-  date_end = ""
-  description = ".."
+  date_end = "3028-01-01"
+  description = "Read the news! Eat a Peach"
 
 
 +++
