@@ -8,6 +8,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: http://losangelesreview.org/beautiful-cheesemonger-john-poch/
 
 image:
-  caption: Photo by the man himself
+  caption: Photo by John Poch
   focal_point: Smart
 ---
