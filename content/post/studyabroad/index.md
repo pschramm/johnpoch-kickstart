@@ -1,12 +1,13 @@
 ---
 title: 'Study Abroad with Dr. Poch in Italy in May 2021'
-date: 2019-07-12
-math: true
-diagram: true
-image:
-  placement: 3
-  caption: 'Story credit: jpoch'
----
-Check back for more information
-#addtext
+summary:  More Information Soon.
+tags:
+date: "2016-04-27T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+external_link: https://www.youtube.com/watch?v=kMtgeiWcjNc
+
+image:
+  caption: 
+  focal_point: 
+---

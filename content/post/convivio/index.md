@@ -1,13 +1,13 @@
 ---
 title: 'Convivio Connfernce 2021: Poetry Faculty'
-date: 2019-07-12
-math: true
-diagram: true
+summary:  Poetry Faculty in 2021
+tags:
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://www.convivioconference.org/ 
+
 image:
-  placement: 3
-  caption: 'Story credit: jpoch'
+  caption: Photo by the man himself
+  focal_point: Smart
 ---
-
-I am excited to be part of of the Faculty in 2021 at  https://www.convivioconference.org/ 
-#addtext
-
