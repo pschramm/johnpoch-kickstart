@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "John Poch"
+  title = ""
   content = "POET"
   align = "right"  # Choose `center`, `left`, or `right`.
 
