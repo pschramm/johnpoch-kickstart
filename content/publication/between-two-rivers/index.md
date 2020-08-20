@@ -1,5 +1,5 @@
 ---
-title: "Between Two Rivers: Photographs and Poems between the Brazos and the Rio Grande (Grover E. Murray Studies in the American Southwest)"
+title: "Between Two Rivers: Photographs and Poems between the Brazos and the Rio Grande"
 authors:
 - admin
 date: "2020-07-01T00:00:00Z"

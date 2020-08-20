@@ -1,6 +1,6 @@
 ---
 title: 'Convivio Connfernce 2021: Poetry Faculty'
-summary:  Poetry Faculty in 2021
+summary: 
 tags:
 date: "2016-04-27T00:00:00Z"
 
