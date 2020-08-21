@@ -1,5 +1,5 @@
 ---
-title: 'Study Abroad with Dr. Poch in Italy in May 2021'
+title: 'Study Abroad with Dr. Poch in Seville, Spain in 2022'
 summary:  More Information Soon.
 tags:
 date: "2016-04-27T00:00:00Z"

@@ -21,7 +21,7 @@ publication_short: TTU Press
 abstract : "John Poch’s Poems"
 
 # Summary. An optional shortened abstract.
-summary: Short Summary for Poems
+summary: Poems
 
 # tags:
 # - Source Themes

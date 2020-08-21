@@ -29,7 +29,7 @@ featured: false
 
 links:
 - name: Buy on Amazon
-  url: https://www.amazon.com/Gracious-Poems-21st-Century-South/dp/1682830640
+  url: https://www.amazon.com/Fix-Quiet-Poems-John-Poch/dp/1587312697/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
