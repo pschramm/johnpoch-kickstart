@@ -181,10 +181,10 @@
     {{ $og_image = printf "%s/%s" $media_dir site.Params.sharing_image | absURL }}
   {{ else if $has_logo }}
     {{ $og_image = (partial "functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}
-    {{ $twitter_card = "summary" }}
+    {{ $twitter_card = "summary_large_image" }}
   {{ else }}
     {{ $og_image = (partial "functions/get_icon" 512).Permalink }}
-    {{ $twitter_card = "summary" }}
+    {{ $twitter_card = "summary_large_image" }}
   {{ end }}
   {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
   <meta property="twitter:card" content="{{ $twitter_card }}">
@@ -192,6 +192,7 @@
   <meta property="twitter:site" content="@{{ . }}">
   <meta property="twitter:creator" content="@{{ . }}">
   {{ end }}
+  <meta property="twitter:title" content="{{ site.Title }}">
   <meta property="og:site_name" content="{{ site.Title }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}">

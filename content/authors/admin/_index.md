@@ -1,6 +1,6 @@
 ---
 title: John Poch
-role: "President’s Excellence Research Professor of English"
+role: "POET : President’s Excellence Research Professor of English : Texas Tech University"
 avatar_filename: /poch1.jpg
 organizations:
   - name: Texas Tech University
