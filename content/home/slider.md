@@ -19,7 +19,7 @@ height = "calc(100vh - 70px)"
   title = ""
   content = "POET"
   align = "right"  # Choose `center`, `left`, or `right`.
-  "
+  
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
