@@ -1,5 +1,5 @@
 ---
-title: 'Convivio Conference 2022: Poetry Faculty'
+title: 'Convivio Conference 2021: Poetry Faculty'
 summary: 
 tags:
 date: "2016-04-27T00:00:00Z"
